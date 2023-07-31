@@ -12,12 +12,14 @@ div.rice {
     height: 20px;
     background-color: #e9d69f;
     margin-top: -10px;
+    width: 0px;
+
   }
 
   > div.red {
     margin: 0 auto;
     width: 100%;
-    margin-top: -100px; 
+    margin-top: -20px; 
     position: relative;
     > div.red-box {
       width: 100%;
@@ -96,13 +98,15 @@ div.tea {
     height: 20px;
     background-color: #e9d69f;
     margin-top: -10px;
+    width: 0px;
+
   }
 
   > div.red {
     margin: 0 auto;
     width: 100%;
 
-    margin-top: -100px;
+    margin-top: -20px;
     position: relative;
     > div.red-box {
       width: 100%;
@@ -185,13 +189,14 @@ div.nut {
     height: 20px;
     background-color: #e9d69f;
     margin-top: -10px;
+    width: 0px;
   }
 
-  > div.red {
+  > div.red { 
     margin: 0 auto;
     width: 100%;
 
-    margin-top: -100px;
+    margin-top: -20px;
     position: relative;
     > div.red-box {
       width: 100%;

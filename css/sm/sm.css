@@ -173,12 +173,13 @@ div.rice > div.img {
 div.rice > div.bigline {
   height: 20px;
   background-color: #e9d69f;
-  margin-top: -10px; }
+  margin-top: -10px;
+  width: 0px; }
 
 div.rice > div.red {
   margin: 0 auto;
   width: 100%;
-  margin-top: -100px;
+  margin-top: -20px;
   position: relative; }
   div.rice > div.red > div.red-box {
     width: 100%;
@@ -241,12 +242,13 @@ div.tea > div.img {
 div.tea > div.bigline {
   height: 20px;
   background-color: #e9d69f;
-  margin-top: -10px; }
+  margin-top: -10px;
+  width: 0px; }
 
 div.tea > div.red {
   margin: 0 auto;
   width: 100%;
-  margin-top: -100px;
+  margin-top: -20px;
   position: relative; }
   div.tea > div.red > div.red-box {
     width: 100%;
@@ -313,12 +315,13 @@ div.nut > div.img {
 div.nut > div.bigline {
   height: 20px;
   background-color: #e9d69f;
-  margin-top: -10px; }
+  margin-top: -10px;
+  width: 0px; }
 
 div.nut > div.red {
   margin: 0 auto;
   width: 100%;
-  margin-top: -100px;
+  margin-top: -20px;
   position: relative; }
   div.nut > div.red > div.red-box {
     width: 100%;
@@ -713,7 +716,7 @@ footer {
     align-items: center; }
     footer div.end > div {
       width: 140px;
-      padding: 0 15px; }
+      padding: 0 13px; }
       footer div.end > div > img {
         border-bottom: 1px solid gray;
         padding: 10px; }
